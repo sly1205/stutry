@@ -2,9 +2,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "YOUR PROJECT TITLE",
+    "title": "IRIS",
     "section": "",
     "text": "1 Introduction"
+  },
+  {
+    "objectID": "index.html#first-result",
+    "href": "index.html#first-result",
+    "title": "IRIS",
+    "section": "1.1 First result",
+    "text": "1.1 First result\n\n\nCode\nlibrary(ggplot2)\nggplot(iris, aes(Sepal.Length, Sepal.Width))"
   },
   {
     "objectID": "data.html#description",

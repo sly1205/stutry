@@ -1,1 +1,10 @@
 # Introduction
+
+## First result
+
+```{R}
+library(ggplot2)
+ggplot(iris, aes(Sepal.Length, Sepal.Width))
+
+
+```
