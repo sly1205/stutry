@@ -1,5 +1,9 @@
 # Introduction
+```{r}
 
+1+2
+
+```
 ## First result
 
 ```{R}
