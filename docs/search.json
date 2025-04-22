@@ -14,6 +14,13 @@
     "text": "1.1 First result\n\n\nCode\nlibrary(ggplot2)\nggplot(iris, aes(Sepal.Length, Sepal.Width))+\n  geom_point()+\n  geom_line()"
   },
   {
+    "objectID": "index.html#this-is-a-line-from-branch-merge",
+    "href": "index.html#this-is-a-line-from-branch-merge",
+    "title": "IRIS",
+    "section": "1.2 this is a line from branch & merge",
+    "text": "1.2 this is a line from branch & merge"
+  },
+  {
     "objectID": "data.html#description",
     "href": "data.html#description",
     "title": "2  Data",
