@@ -11,7 +11,7 @@
     "href": "index.html#first-result",
     "title": "IRIS",
     "section": "1.1 First result",
-    "text": "1.1 First result\n\n\nCode\nlibrary(ggplot2)\nggplot(iris, aes(Sepal.Length, Sepal.Width))+\n  geom_point()"
+    "text": "1.1 First result\n\n\nCode\nlibrary(ggplot2)\nggplot(iris, aes(Sepal.Length, Sepal.Width))+\n  geom_point()+\n  geom_line()"
   },
   {
     "objectID": "data.html#description",
